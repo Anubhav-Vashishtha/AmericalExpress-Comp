@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_RBWI,0.10239944,1,Numerical form of the season. Takes 1 for the oldest season and increases for the latest seasons
+2,team_count_50runs_last15,0.093987495,2,Ratio of the number of 50s scored by players in team1 to the number of 50s scored by players in team2 in the last 15 games
+3,Economy Rate Index,0.09052189,3,"Index representing the economy rate of bowlers, calculated as runs conceded per over"
+4,Bowler Strike Rate Index,0.08853636,4,"Index representing the bowler's strike rate, calculated as the number of balls bowled per wicket taken"
+5,team_BI,0.08384657,5,Team1's average inning runs in the last 15 games
+6,Run concede per Wicket Index,0.08343568,6,Index representing the average number of runs conceded per wicket taken
+7,Big Inning Index,0.08128426,7,Team1's win percentage against Team2 in the last 15 games
+8,team_winp_last5,0.08119211,8,Ratio of team1's win percentage to team2's win percentage in the last 5 games
+9,season_enc,0.08004938,9,
+10,Strike Rate Index,0.0793609,10,"Index representing the batting strike rate, calculated as runs scored per 100 balls faced"
